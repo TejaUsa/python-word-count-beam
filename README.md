@@ -14,7 +14,7 @@ In 44-517/python-word-count-beam:
 - Open project folder in VS Code.
 - Fetch raw contents of wordcount.py and paste into your local file.
 - Create a sample.txt with content from Shakespeare's sonnets (as we did Monday).
-- Create wordcount.py from the Apache Beam [examples](https://github.com/apache/beam/tree/master/sdks/python/apache_beam/examples).
+- Create wordcount.py from the Apache Beam [using this url](https://github.com/apache/beam/tree/master/sdks/python/apache_beam/examples).
 
 
 Click the link above and look for wordcount.py, paste in raw contents to your local file.
